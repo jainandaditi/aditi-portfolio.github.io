@@ -1,2 +1,2 @@
-# aditi-portfolio.github.io
-Data Analyst Portfolio
+# Aditi-portfolio.github.io
+This is my portfolio to showcase my data analysis skills.
